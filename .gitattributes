@@ -1,3 +1,0 @@
-spacy_models/en_ner_bc5cdr_md-0.5.3.tar.gz filter=lfs diff=lfs merge=lfs -text
-spacy_models/en_ner_bionlp13cg_md-0.5.3.tar.gz filter=lfs diff=lfs merge=lfs -text
-spacy_models/en_ner_craft_md-0.5.3.tar.gz filter=lfs diff=lfs merge=lfs -text
