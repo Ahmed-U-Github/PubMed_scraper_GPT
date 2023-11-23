@@ -1,0 +1,2 @@
+[spacy_models]
+en_ner_bionlp13cg_md = en_ner_bionlp13cg_md
